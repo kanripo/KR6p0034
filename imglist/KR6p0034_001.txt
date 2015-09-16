@@ -1,0 +1,5 @@
+001-0365b00	X 001-0365b	buddhist/X-xuzang/X01/03/X01-0365.png
+001-0365c00	X 001-0365c	buddhist/X-xuzang/X01/03/X01-0365.png
+001-0366a00	X 001-0366a	buddhist/X-xuzang/X01/03/X01-0366.png
+001-0366b00	X 001-0366b	buddhist/X-xuzang/X01/03/X01-0366.png
+001-0366c00	X 001-0366c	buddhist/X-xuzang/X01/03/X01-0366.png
